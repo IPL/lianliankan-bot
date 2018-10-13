@@ -1,0 +1,17 @@
+{
+	"top_left_point": {
+		"x": 45,
+		"y": 400
+	},
+	"block_size": {
+		"width": 128,
+		"height": 128,
+		"interval": 15
+	},
+	"board_size": {
+		"boardWidth": 7,
+		"boardHeight": 10
+	},
+	"sample_rate": 3,
+	"control_by_adb": true
+}
