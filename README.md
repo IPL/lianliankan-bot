@@ -11,3 +11,9 @@
 脚本效果视频：http://v.douyin.com/dKH2dd
 
 物理外挂视频：https://v.vzuu.com/video/983844594290733056
+
+本项目参考和使用了下面两个项目的部分代码：
+
+https://github.com/ZhangFengze/QQLianLianKanCheat
+
+https://github.com/wangshub/Douyin-Bot
